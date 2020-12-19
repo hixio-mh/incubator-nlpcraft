@@ -72,7 +72,7 @@
 
     <properties>
         <!-- Major Scala version. -->
-        <scala.base>2.12</scala.base>
+        <scala.base>2.13.4</scala.base>
 
         <!-- Versions. -->
         <ignite.ver>2.8.1</ignite.ver>
