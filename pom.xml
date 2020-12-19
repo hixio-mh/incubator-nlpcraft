@@ -123,7 +123,7 @@
         <apache.rat.plugin.ver>0.13</apache.rat.plugin.ver>
         <org.antlr4.ver>4.8</org.antlr4.ver>
         <akka.http.2.12.ver>10.1.9</akka.http.2.12.ver>
-        <akka.stream.2.12.ver>2.5.23</akka.stream.2.12.ver>
+        <akka.stream.2.12.ver>2.6.10</akka.stream.2.12.ver>
         <akka.http.spray.json.2.12.ver>10.1.9</akka.http.spray.json.2.12.ver>
         <google.guava.ver>28.1-jre</google.guava.ver>
         <diff.utils.ver>4.5</diff.utils.ver>
