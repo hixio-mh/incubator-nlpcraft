@@ -82,7 +82,7 @@
         <scala.ver>${scala.base}.11</scala.ver>
         <scala.config.ver>1.3.4</scala.config.ver>
         <commons.codec.ver>1.12</commons.codec.ver>
-        <commons.io.ver>2.6</commons.io.ver>
+        <commons.io.ver>2.7</commons.io.ver>
         <commons-lang3.ver>3.9</commons-lang3.ver>
         <commons.validator.ver>1.6</commons.validator.ver>
         <apache.commons.text.ver>1.7</apache.commons.text.ver>
