@@ -113,7 +113,7 @@
         <jackson.yaml.ver>2.10.1</jackson.yaml.ver>
         <apache.math.ver>3.6.1</apache.math.ver>
         <apache.common.lang.ver>3.8.1</apache.common.lang.ver>
-        <apache.httpcomponents.ver>4.5.7</apache.httpcomponents.ver>
+        <apache.httpcomponents.ver>4.5.13</apache.httpcomponents.ver>
         <apache.opennlp.ver>1.9.1</apache.opennlp.ver>
         <maven.javadoc.plugin.ver>3.2.0</maven.javadoc.plugin.ver>
         <maven.shade.plugin.ver>3.2.1</maven.shade.plugin.ver>
