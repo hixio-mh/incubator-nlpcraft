@@ -138,7 +138,7 @@
             If you update versions - please ensure that they are compatible too.
          -->
         <google.protobuf.ver>3.9.1</google.protobuf.ver>
-        <google.clould.language.ver>1.76.0</google.clould.language.ver>
+        <google.clould.language.ver>1.103.1</google.clould.language.ver>
         <opencensus.ver>0.23.0</opencensus.ver>
 
         <prometheus.ver>0.3.0</prometheus.ver>
