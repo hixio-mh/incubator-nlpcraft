@@ -137,7 +137,7 @@
              - opencensus 0.23.0
             If you update versions - please ensure that they are compatible too.
          -->
-        <google.protobuf.ver>3.9.1</google.protobuf.ver>
+        <google.protobuf.ver>3.16.1</google.protobuf.ver>
         <google.clould.language.ver>1.76.0</google.clould.language.ver>
         <opencensus.ver>0.23.0</opencensus.ver>
 
